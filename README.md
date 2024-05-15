@@ -10,7 +10,7 @@ See our page at [Coming soon!](https://codemely.dev)!
 
 ## Installation
 
-For MeLyOJ installation, you can follow the guide at [docs.dmoj.ca](https://docs.dmoj.ca/#/site/installation) (if you want to read the docs). Otherwise, look at [INSTALL_FE.md](https://github.com/mely-apps/melyoj/INSTALL_FE.md) 
+For MeLyOJ installation, look at [INSTALL_FE.md](https://github.com/mely-apps/melyoj/blob/develop/INSTALL_FE.md) 
 
 ## Features
 
