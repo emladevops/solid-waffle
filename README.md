@@ -4,7 +4,7 @@
   MeLy Oj
 </h1>
 
-A modern Online Judge system, forked from [DMOJ] (https://github.com/DMOJ/online-judge), Founded by: [@Hi1805] (https://github.com/Hi1805)
+A modern Online Judge system, forked from [DMOJ](https://github.com/DMOJ/online-judge), Founded by: [@Hi1805](https://github.com/Hi1805)
 
 See it live at [dmoj.ca](https://dmoj.ca/)!
 
