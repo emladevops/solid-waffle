@@ -8,6 +8,10 @@ A modern Online Judge system, forked from [DMOJ] (https://github.com/DMOJ/online
 
 See our page at [Coming soon!](https://codemely.dev)!
 
+## Installation
+
+For MeLyOJ installation, you can follow the guide at [docs.dmoj.ca](https://docs.dmoj.ca/#/site/installation) (if you want to read the docs). Otherwise, look at [INSTALL_FE.md](https://github.com/mely-apps/INSTALL_FE.md) 
+
 ## Features
 
 * [Support for over **60 language runtimes**](https://github.com/mely-apps/melyoj#supported-languages)
@@ -32,12 +36,6 @@ See our page at [Coming soon!](https://codemely.dev)!
 * Fine-grained permission control for staff
 * OAuth login with Google, Facebook, and Github
 * Two-factor authentication support
-
-## Installation
-
-Check out the install documentation at [docs.dmoj.ca](https://docs.dmoj.ca/#/site/installation). Feel free to reach out to us on [Discord](https://dmoj.ca/about/discord/) if you have any questions.
-
-For MeLyOJ installation, you can follow the guide at [docs.dmoj.ca](https://docs.dmoj.ca/#/site/installation) (if you want to read the docs). Otherwise, look at [INSTALL_FE.md](https://github.com/mely-apps/INSTALL_FE.md) 
 
 ## Supported languages
 
