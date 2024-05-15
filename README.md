@@ -4,9 +4,9 @@
   MeLy OJ
 </h1>
 
-A modern Online Judge system, forked from [DMOJ] (https://github.com/DMOJ/online-judge)
+A modern Online Judge system, forked from [DMOJ](https://github.com/DMOJ/online-judge)
 
-See our page at [Coming soon!](https://codemely.dev)!
+See our page at [Coming soon](https://codemely.dev)!
 
 ## Installation
 
